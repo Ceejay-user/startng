@@ -1,0 +1,25 @@
+div {
+    text-align: center;
+    background-color: #d1d1d1;
+    padding: 25px 5px 25px 100px;
+    border-bottom: 3px solid black;
+}
+span {
+    margin-left: 15px;
+}
+img {
+    border: 5px solid #f6f6f6;
+    border-radius: 70px;
+    float: right;
+    height: 11em;
+    width: 10em;
+}
+th {
+    background-color: #dddddd;
+}
+.abc {
+    margin-left: 20em;
+}
+.hey {
+    margin-left: 35em;
+}
